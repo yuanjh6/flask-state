@@ -1,0 +1,4 @@
+# conda create -n flask_state python=3.5
+flask
+flask_sqlalchemy
+psutil
